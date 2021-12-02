@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31605.320
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "SonarSweep", "SonarSweep\SonarSweep.visualdproj", "{8B784BAF-F807-4767-AA0B-D6D67BE625BC}"
+EndProject
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "Dive", "Dive\Dive.visualdproj", "{DB5BD457-0084-4E77-8A21-4A174C430C2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{8B784BAF-F807-4767-AA0B-D6D67BE625BC}.Release|x64.Build.0 = Release|x64
 		{8B784BAF-F807-4767-AA0B-D6D67BE625BC}.Release|x86.ActiveCfg = Release|Win32
 		{8B784BAF-F807-4767-AA0B-D6D67BE625BC}.Release|x86.Build.0 = Release|Win32
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Debug|x64.ActiveCfg = Debug|x64
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Debug|x64.Build.0 = Debug|x64
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Debug|x86.Build.0 = Debug|Win32
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Release|x64.ActiveCfg = Release|x64
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Release|x64.Build.0 = Release|x64
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Release|x86.ActiveCfg = Release|Win32
+		{DB5BD457-0084-4E77-8A21-4A174C430C2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
