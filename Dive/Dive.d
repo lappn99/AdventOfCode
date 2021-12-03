@@ -1,9 +1,10 @@
 module Dive;
 
-import std.stdio;
+
 
 int main()
 {
+    import std.stdio;
     File input = File("input.txt");
     auto commands = input.byRecord!(string,int)("%s %d");
     int hPos = 0;
